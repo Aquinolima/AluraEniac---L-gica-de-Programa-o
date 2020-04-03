@@ -1,4 +1,4 @@
-# AluraEniac---L-gica-de-Programa-o
+# AluraEniac---Lógica-de-Programação
 Micro-certificação Eniac-Alura
 
 - Curso C I: Introdução à Linguagem das Linguagens
