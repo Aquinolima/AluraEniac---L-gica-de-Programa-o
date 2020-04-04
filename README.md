@@ -2,6 +2,7 @@
 Micro-certificação Eniac-Alura
 
 - Curso C I: Introdução à Linguagem das Linguagens
+
     - Faça esse curso de Linguagem C e C++ e:
         - Aprenda a criar o primeiro programa em C;
         - Descubra o que são variáveis;
@@ -35,6 +36,7 @@ Micro-certificação Eniac-Alura
         
         
 - Curso C II: Avançando na linguagem
+
     - Faça esse curso de Linguagem C e C++ e:
         - Crie funções;
         - Manipule arrays;
@@ -82,15 +84,16 @@ Micro-certificação Eniac-Alura
         - A usar constantes para evitar números mágicos repetidos;
         - Ifs ternários.
         
-        
+               
 - Curso C III: Recursos avançados da linguagem
-    -Faça esse curso de Linguagem C e C++ e:
-        - Escreva funções recursivas;
-        - Manipule matrizes;
-        - Defina tipos e estruturas;
-        - Lide com diretivas de compilação;
-        - Divida o código em múltiplos arquivos;
-        - Crie um jogo de Pac Man completo.
+  
+    - Faça esse curso de JavaScript e:
+        - Entenda mais como funciona esta popular linguagem do mercado;
+        - Aprenda a manipular os elementos de sua página;
+        - Trabalhe bem com eventos do navegador;
+        - Entenda como utilizar e validar formulários;
+        - Conheça boas práticas de organização de código Javascript;
+        - Busque dados em outro servidor com AJAX.
 
     - Conteúdo Detalhado:
 
