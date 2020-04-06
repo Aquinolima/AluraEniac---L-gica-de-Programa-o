@@ -33,7 +33,7 @@ int jachutou(char letra) {
 
 void desenhaforca() {
 
-    printf("Voce jah deu %d chutes\n", tentativas);
+    printf("Você já deu %d chutes\n", tentativas);
 
     for(int i = 0; i < strlen(palavrasecreta); i++) {
 
