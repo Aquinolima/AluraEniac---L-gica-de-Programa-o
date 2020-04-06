@@ -69,7 +69,7 @@ int jachutou(char letra) {
 
 void desenhaforca() {
 
-    printf("Voce jah deu %d chutes\n", chutesdados);
+    printf("Você já deu %d chutes\n", chutesdados);
 
     for(int i = 0; i < strlen(palavrasecreta); i++) {
 
@@ -89,7 +89,7 @@ void escolhepalavra() {
 
     f = fopen("palavras.txt", "r");
     if(f == 0) {
-        printf("Banco de dados de palavras nao disponivel\n\n");
+        printf("Banco de dados de palavras não disponível\n\n");
         exit(1);
     }
 
@@ -110,20 +110,20 @@ void escolhepalavra() {
 void adicionapalavra() {
     char quer;
 
-    printf("Voce deseja adicionar uma nova palavra no jogo (S/N)?");
+    printf("Você deseja adicionar uma nova palavra no jogo (S/N)?");
     scanf(" %c", &quer);
 
     if(quer == 'S') {
         char novapalavra[20];
 
-        printf("Digite a nova palavra, em letras maiusculas: ");
+        printf("Digite a nova palavra, em letras maiúsculas: ");
         scanf("%s", novapalavra);
 
         FILE* f;
 
         f = fopen("palavras.txt", "r+");
         if(f == 0) {
-            printf("Banco de dados de palavras nao disponivel\n\n");
+            printf("Banco de dados de palavras não disponível\n\n");
             exit(1);
         }
 
