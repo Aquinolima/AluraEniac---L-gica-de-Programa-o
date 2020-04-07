@@ -87,18 +87,18 @@ Micro-certificação Eniac-Alura
                
 - Curso C III: Recursos avançados da linguagem
   
-    - Faça esse curso de JavaScript e:
-        - Entenda mais como funciona esta popular linguagem do mercado;
-        - Aprenda a manipular os elementos de sua página;
-        - Trabalhe bem com eventos do navegador;
-        - Entenda como utilizar e validar formulários;
-        - Conheça boas práticas de organização de código Javascript;
-        - Busque dados em outro servidor com AJAX.
+    - Faça esse curso de Linguagem C e C++ e:
+        - Escreva funções recursivas;
+        - Manipule matrizes;
+        - Defina tipos e estruturas;
+        - Lide com diretivas de compilação;
+        - Divida o código em múltiplos arquivos;
+        - Crie um jogo de Pac Man completo.
 
     - Conteúdo Detalhado:
 
-    1- Matrizes: 
-        - Como declarar matrizes?;
+    1- Matrizes:
+        - Como declarar matrizes?
         - Alocação dinâmica;
         - Ponteiros de ponteiros;
         - Sizeof().
